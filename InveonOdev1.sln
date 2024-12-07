@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrongSRP", "SOLID_SRP\WrongSRP.csproj", "{8BFC0B50-9315-4872-A737-32D2BD92992C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{0C2843D2-AD7D-48CA-9E86-B2D15788A656}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hafta1Bolum1", "Hafta1Bolum1", "{0C2843D2-AD7D-48CA-9E86-B2D15788A656}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP", "SRP", "{B0087715-F42A-4775-BD1C-93B0B0F1BFB8}"
 EndProject
@@ -39,13 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RightDIP", "RightDIP\RightD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "asynchronous programming", "asynchronous programming", "{9526ECA1-5E09-4F0F-8F5B-817DA8DBD40D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncAndAsyncnMethod", "SyncAndAsyncnMethod\SyncAndAsyncnMethod.csproj", "{159AB088-42CF-411B-9E2A-336D34C48B68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyncAndAsyncnMethod", "SyncAndAsyncnMethod\SyncAndAsyncnMethod.csproj", "{159AB088-42CF-411B-9E2A-336D34C48B68}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task Methods", "Task Methods", "{0F319315-00D2-4893-8F72-CB822FBCC5E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMethods", "TaskMethods\TaskMethods.csproj", "{5A4E187E-6543-4550-9102-5E47740E501F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskMethods", "TaskMethods\TaskMethods.csproj", "{5A4E187E-6543-4550-9102-5E47740E501F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMethodWithThrowingExceptions", "AsyncMethodWithThrowingExceptions\AsyncMethodWithThrowingExceptions.csproj", "{D563610E-D36C-4C13-B25D-DE0C2FEE3A03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncMethodWithThrowingExceptions", "AsyncMethodWithThrowingExceptions\AsyncMethodWithThrowingExceptions.csproj", "{D563610E-D36C-4C13-B25D-DE0C2FEE3A03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
